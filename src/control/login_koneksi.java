@@ -5,10 +5,11 @@
  */
 package control;
 
-import java.sql.Connection;
-import java.sql.Driver;
+import com.mysql.jdbc.Connection;
+import com.mysql.jdbc.Driver;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+
 
 /**
  *
